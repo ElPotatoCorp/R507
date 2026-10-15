@@ -1,4 +1,6 @@
 {
+    "name": "r507/tp02",
+    "description": "Le TP2 du cours de Prod",
     "type": "project",
     "license": "proprietary",
     "minimum-stability": "dev",
